@@ -1,1 +1,1 @@
-"# react-ssr-simple" 
+this repo sample Universal Javascript 
